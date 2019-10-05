@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movie-info SYSTEM "movies.dtd" >
+<movie-info>
+  <movie>
+    <code>1001</code>
+    <title>Harry Potter</title>
+    <release-date>
+      <day>Friday</day>
+      <month>July</month>
+      <year>2011</year>
+    </release-date>
+    <theater>PVR</theater>
+  </movie>
+</movie-info>
+
